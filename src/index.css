@@ -97,7 +97,7 @@ form {
 form input, form label span, form textarea {
   display:block;
 }
-form input .form textarea {
+form input ,form textarea {
   margin-bottom:30px;
   padding:8px;
   border-radius: 4px;
